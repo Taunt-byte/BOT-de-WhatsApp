@@ -8,6 +8,6 @@ status: Em Desenvolvimento
 
 ## Como Usar
 
-## Tecnologias]
+## Tecnologias
 
 ## Bibliografia
